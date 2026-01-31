@@ -1,6 +1,6 @@
 cask "vercel-menu-bar" do
-  version "1.0.8"
-  sha256 "111dc17797197aaa84ff236618cfcbbb317a63d3de3f21da6b7172a04c392245"
+  version "1.0.9"
+  sha256 "6bbdc7cc7a622d655f75cd76d4b06ccdb2f0c2901a44d7cb803d54ea9be6685f"
   url "https://github.com/ryanjmarcus/vercel-menu-bar/releases/download/v#{version}/Vercel-Menu-Bar-#{version}.dmg"
   name "Vercel Menu Bar"
   desc "Menu bar app for monitoring Vercel deployments"
